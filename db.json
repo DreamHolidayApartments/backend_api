@@ -47,6 +47,78 @@
       "description": "Lorem ispum Lorem ispum",
       "rating": 4,
       "id": 4
+    },
+    {
+      "title": "Luxury Loft in City Center",
+      "pricePerNight": 1200,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "Central Station Street 2",
+      "numOfGuest": 8,
+      "book": false,
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame",
+      "rating": 4.5,
+      "id": 5
+    },
+    {
+      "title": "Small Apartment",
+      "pricePerNight": 100,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "Park Street 400",
+      "numOfGuest": 2,
+      "book": false,
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame",
+      "rating": 3.5,
+      "id": 6
+    },
+    {
+      "title": "Lorem ipsum",
+      "pricePerNight": 100,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "lorem ipsum 124",
+      "numOfGuest": 3,
+      "book": false,
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame",
+      "rating": 4,
+      "id": 7
+    },
+    {
+      "title": "Lorem ipsum",
+      "pricePerNight": 200,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "lorem ipsum 124",
+      "numOfGuest": 4,
+      "book": false,
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame",
+      "rating": 4,
+      "id": 8
+    },
+    {
+      "title": "Lorem ipsum",
+      "pricePerNight": 35000,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "lorem ipsum 445",
+      "numOfGuest": 2,
+      "book": false,
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame",
+      "rating": 4,
+      "id": 9
+    },
+    {
+      "title": "Lorem ipsum",
+      "pricePerNight": 300,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "lorem ipsum 445",
+      "numOfGuest": 4,
+      "book": false,
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit ame",
+      "rating": 5,
+      "id": 10
     }
   ],
   "countries": [
