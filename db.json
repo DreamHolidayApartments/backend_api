@@ -1,62 +1,74 @@
 {
-    "apartments": [
-      {
-        "title": "cozy apt in cologne",
-        "pricePerNight": 399,
-        "cityId": 1,
-        "pictureURL": "",
-        "address": "",
-        "numOfGuest": 3,
-        "book": true,
-        "description": "dvfhsdvdskvb",
-        "rating": 5,
-        "id": 1
-      },
-      {
-        "title": "Luxury loft",
-        "pricePerNight": 1000,
-        "cityId": 1,
-        "pictureURL": "",
-        "address": "",
-        "numOfGuest": 3,
-        "book": true,
-        "description": "dvfhsdvdskvb",
-        "rating": 5,
-        "id": 2
-      },
-      {
-        "title": "Townhouse",
-        "pricePerNight": 1500,
-        "cityId": 1,
-        "pictureURL": "",
-        "address": "Aachener Straße 463",
-        "numOfGuest": 10,
-        "book": true,
-        "description": "Lorem Lorem lorem lorem",
-        "rating": 5,
-        "id": 3
-      }
-    ],
-    "countries": [
-      {
-        "name": "Germany",
-        "id": 1
-      },
-      {
-        "name": "India",
-        "id": 2
-      }
-    ],
-    "cities": [
-      {
-        "name": "Cologne",
-        "id": 1,
-        "countryId": 1
-      },
-      {
-        "name": "Ahmedabad",
-        "countryId": 2,
-        "id": 2
-      }
-    ]
-  }
+  "apartments": [
+    {
+      "title": "cozy apt in cologne",
+      "pricePerNight": 399,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "",
+      "numOfGuest": 3,
+      "book": true,
+      "description": "dvfhsdvdskvb",
+      "rating": 5,
+      "id": 1
+    },
+    {
+      "title": "Luxury loft",
+      "pricePerNight": 1000,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "",
+      "numOfGuest": 3,
+      "book": true,
+      "description": "dvfhsdvdskvb",
+      "rating": 5,
+      "id": 2
+    },
+    {
+      "title": "Townhouse",
+      "pricePerNight": 1500,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "Aachener Straße 463",
+      "numOfGuest": 10,
+      "book": true,
+      "description": "Lorem Lorem lorem lorem",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "title": "Small Apartment 3 Beds",
+      "pricePerNight": 120,
+      "cityId": 1,
+      "pictureURL": "",
+      "address": "Subbelrather Straße 234",
+      "numOfGuest": 3,
+      "book": true,
+      "description": "Lorem ispum Lorem ispum",
+      "rating": 4,
+      "id": 4
+    }
+  ],
+  "countries": [
+    {
+      "name": "Germany",
+      "id": 1
+    },
+    {
+      "name": "India",
+      "id": 2
+    }
+  ],
+  "cities": [
+    {
+      "name": "Cologne",
+      "id": 1,
+      "countryId": 1
+    },
+    {
+      "name": "Ahmedabad",
+      "countryId": 2,
+      "id": 2
+    }
+  ]
+}
