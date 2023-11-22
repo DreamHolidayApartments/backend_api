@@ -167,6 +167,42 @@
       "description": "",
       "rating": 4.5,
       "id": 14
+    },
+    {
+      "title": "PrimePulse Apartments",
+      "pricePerNight": 1500,
+      "cityId": 3,
+      "pictureURL": "",
+      "address": "42 Marktstraße 90459,Nürnberg,Germany",
+      "numOfGuest": 5,
+      "book": true,
+      "description": "",
+      "rating": 4.5,
+      "id": 15
+    },
+    {
+      "title": "SkySculpt Living",
+      "pricePerNight": 2000,
+      "cityId": 3,
+      "pictureURL": "",
+      "address": "8 Lindenweg, 90513 Nürnberg, Germany",
+      "numOfGuest": 6,
+      "book": true,
+      "description": "",
+      "rating": 4.5,
+      "id": 16
+    },
+    {
+      "title": "Uptown Elegance Homes",
+      "pricePerNight": 1000,
+      "cityId": 3,
+      "pictureURL": "",
+      "address": "27 Mozartplatz, 90403 Nürnberg",
+      "numOfGuest": 2,
+      "book": true,
+      "description": "",
+      "rating": 5,
+      "id": 17
     }
   ],
   "countries": [
