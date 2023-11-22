@@ -143,6 +143,30 @@
       "description": "The lavish 3 Bedroom, Hall, Kitchen WILDFLOWER Suite is nestled in a centrally located luxury Vacation Retreat- Hill Villa Signature Suites.It offers majestic views of Sunrise over lake Swaroop Sagar, Aravali Mountain range & city skyline from its wall size windows of Living area & charming pvt. balcony.",
       "rating": 4,
       "id": 12
+    },
+    {
+      "title": "Cozy Apartment in City Center",
+      "pricePerNight": 1200,
+      "cityId": 3,
+      "pictureURL": "",
+      "address": "near Bahnhof area, Nürnberg",
+      "numOfGuest": 4,
+      "book": true,
+      "description": "",
+      "rating": 4.5,
+      "id": 13
+    },
+    {
+      "title": "Luxury Apt in Downtown",
+      "pricePerNight": 800,
+      "cityId": 3,
+      "pictureURL": "",
+      "address": "OstendStraße, Nürnberg",
+      "numOfGuest": 2,
+      "book": true,
+      "description": "",
+      "rating": 4.5,
+      "id": 14
     }
   ],
   "countries": [
