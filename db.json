@@ -4,7 +4,6 @@
       "title": "Cozy Apt In Cologne",
       "pricePerNight": 399,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "https://image1.apartmentfinder.com/i2/4R_kMh3-cQLUb9F6sm4PLt5X_f41ANVW63fh_-7jWR0/110/image.jpg",
       "address": "",
       "numOfGuest": 3,
@@ -17,7 +16,6 @@
       "title": "Luxury loft",
       "pricePerNight": 1000,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/383834719.jpg?k=a8ed632aeaf2eb621e6753e941d4fb2f858005614b603cdef5bfe644ce1a1906&o=&hp=1",
       "address": "",
       "numOfGuest": 3,
@@ -30,7 +28,6 @@
       "title": "Townhouse",
       "pricePerNight": 1500,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "https://architekt-rettberg.de/wp-content/uploads/2020/01/architekt-rettberg-townhouse_hinten.jpg",
       "address": "Aachener Straße 463",
       "numOfGuest": 10,
@@ -43,12 +40,11 @@
       "title": "Small Apartment 3 Beds",
       "pricePerNight": 120,
       "cityId": 1,
-      "cityName": "cologne",
-      "pictureURL": "",
+      "pictureURL": "https://www.idesignarch.com/wp-content/uploads/Alvhem-Apartment-Interior-Design_1.jpg",
       "address": "Subbelrather Straße 234",
       "numOfGuest": 3,
       "book": true,
-      "description": "Lorem ispum Lorem ispum",
+      "description": "Charming 2-bedroom apartment in the heart of Cologne, offering modern living with a touch of historic allure. Bright and spacious, the unit boasts a fully equipped kitchen, stylish furnishings, and panoramic views of the city.Conveniently located near public transport, trendy cafes, and cultural hotspots, it promises a vibrant urban lifestyle.Ideal for professionals or a small family seeking comfort and convenience. Don't miss the opportunity to make this well-appointed space your new home in the dynamic city of Cologne.",
       "rating": 4,
       "id": 4
     },
@@ -56,12 +52,11 @@
       "title": "Luxury Loft in City Center",
       "pricePerNight": 1200,
       "cityId": 1,
-      "cityName": "cologne",
-      "pictureURL": "",
+      "pictureURL": "https://thumbs.cityrealty.com/assets/smart/1004x/webp/e/e6/e6336710a04b5e6cb73f63cc29ae442f3ea841dd",
       "address": "Central Station Street 2",
       "numOfGuest": 8,
       "book": false,
-      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut",
+      "description": "Centrally located 1-bedroom apartment in Cologne's bustling city center. This contemporary space features an open floor plan, sleek kitchen, and large windows offering stunning city views. Steps away from shops, dining, and cultural attractions, it's a perfect blend of convenience and style. Ideal for urban enthusiasts seeking a modern living experience in the heart of Cologne. Don't miss out on this opportunity to call the vibrant city center home.",
       "rating": 4.5,
       "id": 5
     },
@@ -69,7 +64,6 @@
       "title": "Small Apartment",
       "pricePerNight": 100,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "",
       "address": "Park Street 400",
       "numOfGuest": 2,
@@ -82,7 +76,6 @@
       "title": "Lorem ipsum",
       "pricePerNight": 100,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "",
       "address": "lorem ipsum 124",
       "numOfGuest": 3,
@@ -95,7 +88,6 @@
       "title": "Lorem ipsum",
       "pricePerNight": 200,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "",
       "address": "lorem ipsum 124",
       "numOfGuest": 4,
@@ -108,7 +100,6 @@
       "title": "Lorem ipsum",
       "pricePerNight": 35000,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "",
       "address": "lorem ipsum 445",
       "numOfGuest": 2,
@@ -121,7 +112,6 @@
       "title": "Lorem ipsum",
       "pricePerNight": 300,
       "cityId": 1,
-      "cityName": "cologne",
       "pictureURL": "",
       "address": "lorem ipsum 445",
       "numOfGuest": 4,
@@ -129,6 +119,30 @@
       "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut",
       "rating": 5,
       "id": 10
+    },
+    {
+      "title": "Lake View Villa",
+      "pricePerNight": 1000,
+      "cityId": 4,
+      "pictureURL": "https://a0.muscache.com/im/pictures/101885702/66ecdad0_original.jpg?im_w=1200",
+      "address": "Udaipur, Rajasthan, India",
+      "numOfGuest": 2,
+      "book": true,
+      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
+      "rating": 5,
+      "id": 11
+    },
+    {
+      "title": "Luxe 3BHK Villa| Decks, Jacuzzi-Steam Spa",
+      "pricePerNight": 4000,
+      "cityId": 4,
+      "pictureURL": "https://a0.muscache.com/im/pictures/a7d5af11-2aa5-41e3-a9fe-350ff71f2860.jpg?im_w=1200",
+      "address": "Udaipur, Rajasthan, India",
+      "numOfGuest": 10,
+      "book": true,
+      "description": "The lavish 3 Bedroom, Hall, Kitchen WILDFLOWER Suite is nestled in a centrally located luxury Vacation Retreat- Hill Villa Signature Suites.It offers majestic views of Sunrise over lake Swaroop Sagar, Aravali Mountain range & city skyline from its wall size windows of Living area & charming pvt. balcony.",
+      "rating": 4,
+      "id": 12
     }
   ],
   "countries": [
@@ -144,13 +158,23 @@
   "cities": [
     {
       "name": "Cologne",
-      "id": 1,
-      "countryId": 1
+      "countryId": 1,
+      "id": 1
     },
     {
       "name": "Ahmedabad",
       "countryId": 2,
       "id": 2
+    },
+    {
+      "name": "Nürnberg",
+      "countryId": 1,
+      "id": 3
+    },
+    {
+      "name": "Udaipur",
+      "countryId": 2,
+      "id": 4
     }
   ]
 }
