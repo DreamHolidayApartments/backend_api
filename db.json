@@ -91,7 +91,7 @@
       "pictureURL": "https://i.ytimg.com/vi/VmeDcSR6qwk/maxresdefault.jpg",
       "address": "Haldenweg 9, Cologne",
       "numOfGuest": 4,
-      "book": false,
+      "book": true,
       "description": "Contemporary urban apartment: panoramic views, modern design. Ideal location near city life, cultural spots. Perfect for a stylish stay in vibrant Cologne.",
       "rating": 4,
       "id": 8
@@ -103,7 +103,7 @@
       "pictureURL": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/242710752.jpg?k=11f43404aba1d4d2c69ec7d94bf08c2d4c12f20d11d01ef0ea7af0669383099a&o=&hp=1",
       "address": "Birkenplatz 28, Cologne",
       "numOfGuest": 4,
-      "book": false,
+      "book": true,
       "description": "Chic Cologne abode: modern flair, city proximity. Urban living at its best, near cultural hotspots. Experience comfort in vibrant Cologne.",
       "rating": 4,
       "id": 9
@@ -115,7 +115,7 @@
       "pictureURL": "https://www.apartments.com/blog/sites/default/files/styles/x_large_hq/public/image/2023-06/ParkLine-apartment-in-Miami-FL.jpg?itok=kQmw64UU",
       "address": "Kirschallee 36, Cologne",
       "numOfGuest": 4,
-      "book": false,
+      "book": true,
       "description": "Modern urban retreat in Cologne. Stylish, well-equipped space with city views. Prime location near attractions, perfect for a chic city stay.",
       "rating": 5,
       "id": 10
