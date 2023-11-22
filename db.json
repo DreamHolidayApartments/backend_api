@@ -203,6 +203,78 @@
       "description": "Discover opulent living at Uptown Elegance Homes in Nürnberg. Impeccably designed, these residences offer lavish comfort and modern amenities, a testament to upscale living. Centrally located, immerse yourself in the city’s culture and attractions, while relishing the luxurious retreat and sophistication of these distinguished urban homes.",
       "rating": 5,
       "id": 17
+    },
+    {
+      "title": "Grandeur Park Suites",
+      "pricePerNight": 400,
+      "cityId": 2,
+      "pictureURL": "https://i.pinimg.com/originals/33/60/0d/33600d97b7a75b40b6533962c47b3532.jpg",
+      "address": "23, Tulip Road, Ahmedabad",
+      "numOfGuest": 3,
+      "book": true,
+      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
+      "rating": 4,
+      "id": 18
+    },
+    {
+      "title": "Ahmedabad Oasis Residence",
+      "pricePerNight": 600,
+      "cityId": 2,
+      "pictureURL": "https://88designbox.com/upload/2015/07/05/modern-apartment-in-dubai-01.jpg",
+      "address": "78, Orchid Avenue, Ahmedabad",
+      "numOfGuest": 5,
+      "book": true,
+      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
+      "rating": 4.5,
+      "id": 19
+    },
+    {
+      "title": "Sunset Vista Apartments Ahmedabad",
+      "pricePerNight": 200,
+      "cityId": 2,
+      "pictureURL": "https://assets.architecturaldigest.in/photos/600823983a9d9570bc840f93/master/w_1600%2Cc_limit/Show-Flat-1-866x487.jpg",
+      "address": "63, Jasmine Terrace, Ahmedabad",
+      "numOfGuest": 3,
+      "book": true,
+      "description": "Welcome to Sunset Vista Apartments Ahmedabad! Our modern residences offer a blend of luxury and comfort. With spacious interiors, stunning views, and contemporary amenities, enjoy a sophisticated urban lifestyle. Nestled amidst vibrant locales, experience convenience and elegance. Explore Ahmedabad's rich culture while indulging in the tranquility and opulence of our distinguished apartments.",
+      "rating": 4.5,
+      "id": 20
+    },
+    {
+      "title": "Enchanted Heights Apartments Ahmedabad",
+      "pricePerNight": 100,
+      "cityId": 2,
+      "pictureURL": "https://media.designcafe.com/wp-content/uploads/2021/06/23151350/south-indian-apartment-interior-design-for-dining-room-in-mumbai.jpg",
+      "address": "63, Jasmine Terrace, Ahmedabad",
+      "numOfGuest": 2,
+      "book": true,
+      "description": "Enchanted Heights Apartments Ahmedabad: Where modern luxury meets serene living. Discover spacious, well-appointed homes with stunning views. Experience urban comfort and convenience in a vibrant setting. Immerse yourself in Ahmedabad's rich cultural tapestry while enjoying the tranquility of these exquisite residences.",
+      "rating": 5,
+      "id": 21
+    },
+    {
+      "title": "Royal View Residences Ahmedabad",
+      "pricePerNight": 500,
+      "cityId": 2,
+      "pictureURL": "https://i.pinimg.com/736x/a3/6d/43/a36d43e49f148790707bcef53595c494.jpg",
+      "address": "63, Jasmine Terrace, Ahmedabad",
+      "numOfGuest": 4,
+      "book": false,
+      "description": "Discover your urban sanctuary in the heart of Ahmedabad with this modern, stylish apartment. Boasting spacious living areas adorned with contemporary furnishings, this 2-bedroom abode offers comfort and functionality. Enjoy a fully-equipped kitchen, a cozy lounge, and serene bedrooms. With panoramic city views and proximity to local attractions, this apartment promises a convenient and chic stay in Ahmedabad.",
+      "rating": 4.5,
+      "id": 22
+    },
+    {
+      "title": "Ahmedabad Apartment",
+      "pricePerNight": 150,
+      "cityId": 2,
+      "pictureURL": "https://thearchitectsdiary.com/wp-content/uploads/2020/08/deuja-feat.jpg",
+      "address": "63, Rose Street, Ahmedabad",
+      "numOfGuest": 3,
+      "book": true,
+      "description": "Welcome to your serene urban escape in Ahmedabad! This charming apartment offers a fusion of comfort and style. With two bedrooms, a cozy living room, and a well-equipped kitchen, it's an ideal space for relaxation. Enjoy breathtaking city views from the balcony and immerse yourself in the vibrant neighborhood, filled with cultural gems and modern conveniences.",
+      "rating": 3.5,
+      "id": 23
     }
   ],
   "countries": [
