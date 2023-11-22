@@ -128,7 +128,7 @@
       "address": "Udaipur, Rajasthan, India",
       "numOfGuest": 2,
       "book": true,
-      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
+      "description": "Rosie's Retreat Udaipur is a private property located in the old city. It is just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
       "rating": 5,
       "id": 11
     },
@@ -140,7 +140,7 @@
       "address": "Udaipur, Rajasthan, India",
       "numOfGuest": 10,
       "book": true,
-      "description": "The lavish 3 Bedroom, Hall, Kitchen WILDFLOWER Suite is nestled in a centrally located luxury Vacation Retreat- Hill Villa Signature Suites.It offers majestic views of Sunrise over lake Swaroop Sagar, Aravali Mountain range & city skyline from its wall size windows of Living area & charming pvt. balcony.",
+      "description": "The lavish 3 Bedroom, Hall, Kitchen WILDFLOWER Suite is nestled in a centrally located luxury Vacation Retreat. It offers majestic views of Sunrise over lake Swaroop Sagar, Aravali Mountain range & city skyline from its wall size windows of Living area & charming pvt. balcony.",
       "rating": 4,
       "id": 12
     },
@@ -176,7 +176,7 @@
       "address": "42 Marktstraße 90459, Nürnberg",
       "numOfGuest": 5,
       "book": true,
-      "description": "Welcome to PrimePulse Apartments in Nürnberg! Our lavish accommodations boast modern elegance and convenience. Nestled in a prime locale, explore the city's vibrant culture and attractions while relishing in upscale comfort and style during your stay.",
+      "description": "Welcome to PrimePulse Apartments in Nürnberg! With modern accommodations. It boast modern elegance and convenience. Nestled in a prime locale, explore the city's vibrant culture and attractions while relishing in upscale comfort and style during your stay.",
       "rating": 4.5,
       "id": 15
     },
