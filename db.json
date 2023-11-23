@@ -212,7 +212,7 @@
       "address": "23, Tulip Road, Ahmedabad",
       "numOfGuest": 3,
       "book": true,
-      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
+      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace. Within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
       "rating": 4,
       "id": 18
     },
@@ -224,7 +224,7 @@
       "address": "78, Orchid Avenue, Ahmedabad",
       "numOfGuest": 5,
       "book": true,
-      "description": "Rosie's Retreat Udaipur is a private property located in the old city just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
+      "description": "Rosie's Retreat Udaipur is a private property located in the old city. It's just a minutes walk from the City Palace and within walking distance of tourist attractions, restaurants and a variety of shops.It is located on a quiet no traffic side street.",
       "rating": 4.5,
       "id": 19
     },
